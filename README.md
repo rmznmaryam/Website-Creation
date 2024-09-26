@@ -1,6 +1,5 @@
 # Website-Creation
-I assisted in creating this website, and learned a lot along the way
-Here is the website Link:
-https://torontotitan.com/
+Working on creating a helpful website to guide Engineering students in their academic journey!
+Coming soon...
 
-Description: This website is for a community and sports club, and showcases all that the organization offers and promotes
+#html, #django #Python
